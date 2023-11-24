@@ -1,8 +1,8 @@
 # My portfolio
 
-# heading 1
+## heading 1
 
-# heading 2
+## heading 2
 
-# Contact
+## Contact
 You can find me on LinkedIn : https://www.linkedin.com/in/wipawee-wiriyakobboon/
