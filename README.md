@@ -1,4 +1,4 @@
-# My portfolio
+## My portfolio
 
 
 ### Project 1 : Dynamic 
@@ -9,5 +9,5 @@ Click :
 Click : https://replit.com/@WipaweeWiriyakobboon/rockpaperscissorsgame
 
 
-#### Contact
+### Contact
 You can find me on LinkedIn : https://www.linkedin.com/in/wipawee-wiriyakobboon/
