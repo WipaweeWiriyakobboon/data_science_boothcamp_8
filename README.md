@@ -11,8 +11,8 @@ This course provides many skills which are necessary for being data analyst
 - Statistics : Descriptive Statistics, Hypothesis Testing, AB Testing
 - Machine Learning : Regression, Classification, Model Selection
 
-### Project 1 : Dynamic 
-Click : 
+### Project 1 : Dynamic Queries in Google Sheets
+Click : https://docs.google.com/spreadsheets/u/1/d/1UaLuh79YSf64NFcoJOkhF2jF0HHqHyoEI2rMW_6FUqc/htmlview#gid=1287910346
 
 
 ### Project 4 : Rock Paper Scissors Game in R
