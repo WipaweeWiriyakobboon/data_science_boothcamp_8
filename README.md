@@ -14,6 +14,8 @@ This course provides many skills which are necessary for being data analyst
 ### Project 1 : Dynamic Queries in Google Sheets
 Click : https://docs.google.com/spreadsheets/u/1/d/1UaLuh79YSf64NFcoJOkhF2jF0HHqHyoEI2rMW_6FUqc/htmlview#gid=1287910346
 
+### Project 2 : Regex Formula in Google Sheets
+Click : https://docs.google.com/spreadsheets/u/1/d/1JsHCS_GdP4TYlVSL7cIFWW7zp4yrdpWcaEc9wEpmAR8/htmlview
 
 ### Project 4 : Rock Paper Scissors Game in R
 Click : https://replit.com/@WipaweeWiriyakobboon/rockpaperscissorsgame
