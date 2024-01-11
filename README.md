@@ -1,6 +1,7 @@
 ## My portfolio
 
 After 6 months of dedication and efforts, I have successfully accomplished Data Science Bootcamp held by DataRockie!
+
 This course provides many skills which are necessary for being data analyst
 - Excel / Google Sheets : Pivot Table, Lookup, Power Query, Analysis ToolPak
 - Programming language : SQL, R, Python
