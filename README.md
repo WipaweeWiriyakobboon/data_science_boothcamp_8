@@ -23,9 +23,9 @@ This course provides many skills which are necessary for being data analyst
 
 ### Project 4 : Rock Paper Scissors Game in R
 **Click**  : https://replit.com/@WipaweeWiriyakobboon/rockpaperscissorsgame
-- Utilized R to create an interactive game between computer and user by making a computer randomly generate rock, paper, or scissors.
-- Implemented control flow to collect and clean invalid user input.
-- Analyzed game data to track statistics summary for both the user and the computer.
+- Utilized **R** to create an interactive game between computer and user by making a computer randomly generate rock, paper, or scissors.
+- Implemented **control flow** to collect and clean invalid user input.
+- Analyzed game data to **track statistics summary** for both the user and the computer.
 
 ### Contact
 You can find me on LinkedIn : https://www.linkedin.com/in/wipawee-wiriyakobboon/
