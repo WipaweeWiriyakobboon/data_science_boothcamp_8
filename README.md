@@ -18,7 +18,7 @@ This course provides many skills which are necessary for being data analyst
   - Utilize the QUERY function to filter employee information. (QUERY function work like the SQL language)
 
 ### Project 2 : Regex Formula in Google Sheets
-**Click**  : https://docs.google.com/spreadsheets/u/1/d/1JsHCS_GdP4TYlVSL7cIFWW7zp4yrdpWcaEc9wEpmAR8/htmlview
+**Click**  : https://docs.google.com/spreadsheets/d/1JsHCS_GdP4TYlVSL7cIFWW7zp4yrdpWcaEc9wEpmAR8
 - Clean up data by extracting parts of the text to achieve consistent formatting.
 
 ### Project 4 : Rock Paper Scissors Game in R
