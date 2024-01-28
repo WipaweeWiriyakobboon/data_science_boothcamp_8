@@ -14,7 +14,9 @@ This course provides many skills which are necessary for being data analyst
 
 ### Project 1 : Dynamic Queries in Google Sheets
 **Click** : https://docs.google.com/spreadsheets/d/1UaLuh79YSf64NFcoJOkhF2jF0HHqHyoEI2rMW_6FUqc
-- 
+  - Build a slicer and a tick-box to filter information.
+  - Utilize the QUERY function to filter employee information.
+**Note** QUERY functions share similarities with SQL in terms of querying structured data
 
 ### Project 2 : Regex Formula in Google Sheets
 **Click**  : https://docs.google.com/spreadsheets/u/1/d/1JsHCS_GdP4TYlVSL7cIFWW7zp4yrdpWcaEc9wEpmAR8/htmlview
