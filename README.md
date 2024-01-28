@@ -13,8 +13,8 @@ This course provides many skills which are necessary for being data analyst
 - Machine Learning : Regression, Classification, Model Selection
 
 ### Project 1 : Dynamic Queries in Google Sheets
-**Click** : https://docs.google.com/spreadsheets/u/1/d/1UaLuh79YSf64NFcoJOkhF2jF0HHqHyoEI2rMW_6FUqc/htmlview#gid=1287910346
-
+**Click** : https://docs.google.com/spreadsheets/d/1UaLuh79YSf64NFcoJOkhF2jF0HHqHyoEI2rMW_6FUqc
+- 
 
 ### Project 2 : Regex Formula in Google Sheets
 **Click**  : https://docs.google.com/spreadsheets/u/1/d/1JsHCS_GdP4TYlVSL7cIFWW7zp4yrdpWcaEc9wEpmAR8/htmlview
