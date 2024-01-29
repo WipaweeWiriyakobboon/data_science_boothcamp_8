@@ -21,6 +21,12 @@ This course provides many skills which are necessary for being data analyst
 **Click**  : https://docs.google.com/spreadsheets/d/1JsHCS_GdP4TYlVSL7cIFWW7zp4yrdpWcaEc9wEpmAR8
 - Clean up data by extracting parts of the text to achieve consistent formatting.
 
+## Project 3 : Ohkajhu Restaurant
+- Used **gazpacho library** to scrape branches data from Ohkajhu restaurant's website: https://www.ohkajhuorganic.com/branch/
+- Utilized **Python** to **transform data** into a clean, organized, and consistent format.
+- Designed a database and created an ER Diagram
+- Executed **SQL** queries by using join operations, aggregate functions, join operations, etc
+
 ### Project 4 : Rock Paper Scissors Game in R
 **Click**  : https://replit.com/@WipaweeWiriyakobboon/rockpaperscissorsgame
 - Utilized **R** to create an interactive game between computer and user by making a computer randomly generate rock, paper, or scissors.
