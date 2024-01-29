@@ -22,7 +22,7 @@ This course provides many skills which are necessary for being data analyst
 - Clean up data by extracting parts of the text to achieve consistent formatting.
 
 ### Project 3 : Ohkajhu Restaurant
-**Folder** :  https://github.com/wipawee-wiriyakobboon/data-science-boothcamp-8/tree/main/ohkajhu_restaurant/
+**Folder** :  https://github.com/wipawee-wiriyakobboon/data-science-boothcamp-8/tree/main/ohkajhu_restaurant 
 **Result** :  https://replit.com/@WipaweeWiriyakobboon/Ohkajhurestaurant
 - Used **gazpacho library** to scrape branches data from Ohkajhu restaurant's website: https://www.ohkajhuorganic.com/branch/
 - Utilized **Python** to **transform data** into a clean, organized, and consistent format.
