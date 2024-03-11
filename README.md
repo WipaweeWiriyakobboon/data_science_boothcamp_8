@@ -35,7 +35,7 @@ This course provides many skills which are necessary for being data analyst
 - Implemented **control flow** to collect and clean invalid user input.
 - Analyzed game data to **track statistics summary** for both the user and the computer.
 
-## Project 5 : Analyze International Debt Statistics in SQL
+### Project 5 : Analyze International Debt Statistics in SQL
 - **Click** : https://app.datacamp.com/workspace/w/9a72cd1e-a3a3-4d7f-a358-840caef60c4d/edit
 - Write SQL queries to answer interesting questions about international debt using data from The World Bank.
 
