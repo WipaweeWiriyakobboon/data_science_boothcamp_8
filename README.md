@@ -1,4 +1,5 @@
-## My portfolio
+## My portfolio (DataRockie, DataCamp and Personal Project)
+
 
 After 6 months of dedication and efforts, I have successfully accomplished Data Science Bootcamp held by DataRockie!
 
