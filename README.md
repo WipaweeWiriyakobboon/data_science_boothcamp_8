@@ -45,4 +45,5 @@ This course provides many skills which are necessary for being data analyst
 - Leveraged R's dplyr and ggplot2 libraries to transform data and create data visualizations
 
 ### Contact
-You can find me on LinkedIn : https://www.linkedin.com/in/wipawee-wiriyakobboon/
+You can find me on LinkedIn : www.linkedin.com/in/wi-wiriyakobboon
+
